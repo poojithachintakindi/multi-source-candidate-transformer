@@ -1,0 +1,5 @@
+Name: Bob Candidate
+Email: bob@example.com
+Phone: (555) 234-5678
+Experience: Worked at OtherCo as Manager
+Skills: JavaScript, Leadership

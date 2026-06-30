@@ -1,0 +1,4 @@
+[
+  {"name": "Alice Example", "email": "alice@example.com", "skills": ["py", "sql"], "source_meta": "ats"},
+  {"name": "Charlie Unknown", "email": "charlie@nowhere.io", "skills": "Go, Docker"}
+]

@@ -1,0 +1,3 @@
+name,email,phone,company,title,skills,location
+Alice Example,alice@example.com,555-123-4567,ExampleCorp,Engineer,Python;SQL,United States
+Bob Candidate,bob@example.com,1-555-234-5678,OtherCo,Manager,Leadership,USA

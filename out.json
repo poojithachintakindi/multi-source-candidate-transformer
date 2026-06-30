@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Alice Example",
+    "email": "alice@example.com",
+    "phone": "+15551234567",
+    "company": "ExampleCorp",
+    "title": "Engineer",
+    "skills": [
+      "python",
+      "sql"
+    ],
+    "location": "US",
+    "sources": [
+      "recruiter_csv"
+    ],
+    "confidence": 0.7124999999999999
+  },
+  {
+    "name": "Bob Candidate",
+    "email": "bob@example.com",
+    "phone": "+15552345678",
+    "company": "OtherCo",
+    "title": "Manager",
+    "skills": [
+      "leadership"
+    ],
+    "location": "US",
+    "sources": [
+      "recruiter_csv"
+    ],
+    "confidence": 0.7124999999999999
+  },
+  {
+    "name": "Charlie Unknown",
+    "email": "charlie@nowhere.io",
+    "phone": null,
+    "company": null,
+    "title": null,
+    "skills": [
+      "docker",
+      "go"
+    ],
+    "location": null,
+    "sources": [
+      "ats_json"
+    ],
+    "confidence": 0.9
+  }
+]

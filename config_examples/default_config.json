@@ -1,0 +1,6 @@
+{
+  "select_fields": ["name", "email", "phone", "company", "title", "skills", "location", "sources", "confidence"],
+  "rename": {},
+  "include_provenance": true,
+  "include_confidence": true
+}
